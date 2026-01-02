@@ -1,0 +1,22 @@
+# DRABOY LICENSE SERVER v1.0
+
+[GAME]
+id=1
+name=GrimSoul
+trial=TRIAL123|2026-01-08
+month=MONTH123|2026-02-01
+lifetime=LIFE123|forever
+
+[GAME]
+id=2
+name=LDOE
+trial=LDOE7|2026-01-10
+month=LDOE30|2026-02-10
+lifetime=LDOEFOREVER|forever
+
+[GAME]
+id=3
+name=Metro2050
+trial=METRO7|2026-01-12
+month=METRO30|2026-02-12
+lifetime=METROFOREVER|forever
